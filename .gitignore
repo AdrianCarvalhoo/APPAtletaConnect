@@ -1,0 +1,15 @@
+# Arquivos e pastas específicos do Flutter
+/build/
+/flutter/
+/packages/
+/pubspec.lock
+
+# Arquivos de ambiente e credenciais
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pasta do IDE IntelliJ
+.idea/
