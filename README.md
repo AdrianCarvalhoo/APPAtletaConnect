@@ -53,6 +53,6 @@ Para executar este projeto, você precisará ter instalado o Flutter SDK e um am
 
 Este projeto é focado apenas na construção da interface de usuário e das funcionalidades frontend do aplicativo. Não possui funcionalidades de backend (servidor) para armazenar os dados dos atletas e torneios de forma persistente. Portanto, todas as informações cadastradas serão armazenadas localmente no dispositivo e não estarão disponíveis em outros dispositivos ou após o encerramento do aplicativo.
 
-Divirta-se usando a aplicação AtletaConnect! 😊🏅🏀🎾
+Divirta-se usando a aplicação AtletaConnect 😊🏅🏀🎾
 
 
